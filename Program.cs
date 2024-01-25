@@ -3,7 +3,7 @@
 //   лучше обойтись исключительно массивами.
 
 // using System.Linq.Expressions;
-class Program
+// class Program
 {
     static void Main()
     {
@@ -37,7 +37,7 @@ class Program
         }
 
         string[] result = new string[size];
-        int index = 0;
+        int index = 1;
 
         for (int i = 0; i < source.Length; i++)
         {
